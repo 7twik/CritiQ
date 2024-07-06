@@ -20,7 +20,7 @@ It provides a range of endpoints for managing users, reviews, and validation pro
 
 ### Avalanche 
     Contract address : "0x08eB668E21bee808e48A0449713b3494476Eb1b0",
-    Block  explorer Transaction Hash : "0x6e9e8cc04003759822505cdf5bbb39258ba71a4f76b07e30daa0ac343ee3ded9"
+    Transaction Hash : "0x6e9e8cc04003759822505cdf5bbb39258ba71a4f76b07e30daa0ac343ee3ded9"
     Block explorer url : https://subnets-test.avax.network/c-chain
 
 ## Setup
